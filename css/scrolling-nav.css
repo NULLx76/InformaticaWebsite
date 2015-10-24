@@ -58,3 +58,11 @@ h4 {
     text-align: left;
     background: #fff;
 }
+
+#mint {
+	text-align: right;
+}
+
+#ubuntu {
+	position: absolute;
+}
